@@ -1,9 +1,0 @@
-{
-  "secure_cookie_config": {
-    "secure": true,
-    "httpOnly": true,
-    "signed": true
-  },
-  "issuer_url": "https://apis.roblox.com/oauth/.well-known/openid-configuration",
-  "redirect_uri": "https://oauth.scfabyssal.com/redirect"
-}
